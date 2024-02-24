@@ -1,0 +1,4 @@
+interview/
+*.pyc
+*.log
+migrations/
